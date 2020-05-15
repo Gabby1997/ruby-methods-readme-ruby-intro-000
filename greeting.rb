@@ -1,7 +1,6 @@
-def board
-  puts "   |   |   "
-  puts " ----------"
-  puts "   |   |   "
-  puts " ----------"
-  puts "   |   |   "
+def greeting
+  puts "Hello World"
 end 
+
+greeting 
+greeting 
